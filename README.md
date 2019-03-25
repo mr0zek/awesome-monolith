@@ -4,6 +4,13 @@ Here come some articles, links, and videos that describes how to build modular m
 
 "If you can’t build a well-structured monolith, what makes you think you can build a well-structured set of microservices?"
 
+<div class="center">
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">I see you have a poorly structured monolith. Would you like me to convert it into a poorly structured set of microservices?</p><a href="https://twitter.com/architectclippy/status/570025079825764352">01:59 - 24 Feb 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
+
 # General approach
 - [Deconstructing the Monolith: Designing Software that Maximizes Developer Productivity](https://www.shopify.com/partners/blog/monolith-software)
 - [Modular Monolith Or Microservices](https://mozaicworks.com/blog/modular-monolith-microservices/)
