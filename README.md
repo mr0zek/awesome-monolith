@@ -34,3 +34,7 @@ Here come some articles, links, and videos that describes how to build modular m
 - Layers (sink-hole anti-pattern)
   
 
+# Coming back to monolith...
+
+- [Goodbye Microservices: From 100s of problem children to 1 superstar](https://segment.com/blog/goodbye-microservices/)
+
