@@ -8,13 +8,8 @@ Here come some articles, links, and videos that describes how to build modular m
 <p>Simon Brown</p>
 </blockquote> 
 
-<div class="center">
-
 <blockquote class="twitter-tweet" data-partner="tweetdeck">
 <p lang="en" dir="ltr">I see you have a poorly structured monolith. Would you like me to convert it into a poorly structured set of microservices?</p><a href="https://twitter.com/architectclippy/status/570025079825764352">Architect Clippy - 24 Feb 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-</div>
 
 # General approach
 - [Deconstructing the Monolith: Designing Software that Maximizes Developer Productivity](https://www.shopify.com/partners/blog/monolith-software)
